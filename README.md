@@ -3,7 +3,7 @@
 
 简单介绍：
 
-drawLucky是一个基于uniapp开发用于抽奖的会h5页面demo
+drawLucky是一个基于uniapp开发用于抽奖的h5页面demo
 
 使用方法：
 
